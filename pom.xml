@@ -67,4 +67,7 @@
 			
 		</plugins>
 	</build>
+	<modules>
+		<module>spring-study-springex2</module>
+	</modules>
 </project>
