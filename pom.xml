@@ -17,6 +17,14 @@
 	
 	
 	<dependencies>
+	
+		<!-- https://mvnrepository.com/artifact/jstl/jstl -->
+		<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+	
 		<!-- Spring Core -->
 		<dependency>
 			<groupId>org.springframework</groupId>
@@ -69,5 +77,6 @@
 	</build>
 	<modules>
 		<module>spring-study-springex2</module>
+		<module>spring-study-springex3</module>
 	</modules>
 </project>
